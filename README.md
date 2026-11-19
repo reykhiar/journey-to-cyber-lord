@@ -1,13 +1,19 @@
-# 🛡️ Journey to Cyber Lord
+# Disclaimer
+
+All activities documented in this write-up were performed strictly within authorized TryHackMe lab environments for educational purposes. All explanations and notes are written in my own words.
+
+# Journey to Cyber Lord
+
 This repository serves as a personal documentation hub for tracking my cybersecurity learning path, technical notes, and hands-on lab exercises from the ground up.
 
-## 📌 Learning Approach
+## Learning Approach
+
 - **Conceptual & Low-Level Focus:** Prioritizing how systems work under the hood (OS internals, networking, and security mechanics) over simple tool usage.
 - **Originality & Ethics:** All technical notes are synthesized and paraphrased using standard industry terms to ensure clarity and respect content guidelines.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 journey-to-cyber-lord/
